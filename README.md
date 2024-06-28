@@ -24,10 +24,12 @@ Europa HaveFeature
 ## Windows
 Download Our .exe File And Run
 ## Linux 
-Run Install.sh
+Git clone
+python europa.py
 
 ## Linux EuropaOpen
-EuropaOpen Is A Open Source AI For Linux
+Europa Is A Open Source AI For Linux
+But Read License
 
 ## About Us
 **Website** https://waycode.vercel.app/
