@@ -23,12 +23,13 @@ Europa HaveFeature
 # How To Install 
 ## Windows
 ```bash
+git clone https://github.com/legendryPro/Europa.git
 cd europa
 python main.py
 ```
 ## Linux 
 ```bash
-
+git clone https://github.com/legendryPro/Europa.git
 cd europa
 python3 main.py
 ```
