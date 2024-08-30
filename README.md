@@ -14,7 +14,8 @@ Europa HaveFeature
 6. Calculate Numbers
 7. Read Google
 8. Tell Abuot Movie
-9. Can Use ChatGPT And Gemini
+9. Tell About Weather
+10. Much More 
 
 # Supported  Devices
 **Linux**
