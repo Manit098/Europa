@@ -22,9 +22,16 @@ Europa HaveFeature
 
 # How To Install 
 ## Windows
-
+```bash
+cd europa
+python main.py
+```
 ## Linux 
+```bash
 
+cd europa
+python3 main.py
+```
 
 ## Linux EuropaOpen
 Europa Is A Open Source AI
