@@ -50,7 +50,7 @@ def send_email(receiver_add, subject, message):
 
 def get_news():
     news_headline = []
-    result = requests.get(f"https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey"
+    result = requests.get(f"https://newsapi.org/v2/top-headlines?country=in&category=general&33a2cfcadbc047d69054fd6884fd2d98"
                           f"=").json()
     articles = result["articles"]
     for article in articles:
