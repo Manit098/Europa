@@ -1,8 +1,8 @@
 # Welcome to world of AI
 ## Meet Europa 
-World First Speech-To-Speech AI 
+World First AGI For Desktop
 Created By **WayCode**
-Link - https://waycode.vercel.app/
+Link - https://starclouds.in/
 # About Europa
 Europa Is Inspired By Jarvis Form Movie **Iron Man**
 Europa HaveFeature 
@@ -22,17 +22,16 @@ Europa HaveFeature
 
 # How To Install 
 ## Windows
-Download Our .exe File And Run
+
 ## Linux 
-Git clone
-python europa.py
+
 
 ## Linux EuropaOpen
-Europa Is A Open Source AI For Linux
+Europa Is A Open Source AI
 But Read License
 
 ## About Us
-**Website** https://waycode.vercel.app/
+**Website** https://starclouds.in/
 
 
 ##
