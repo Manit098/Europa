@@ -1,8 +1,6 @@
 # Welcome to world of AI
 ## Meet Europa 
 World First AGI For Desktop
-Created By **WayCode**
-Link - https://starclouds.in/
 # About Europa
 Europa Is Inspired By Jarvis Form Movie **Iron Man**
 Europa HaveFeature 
@@ -38,9 +36,6 @@ python3 main.py
 ## Linux EuropaOpen
 Europa Is A Open Source AI
 But Read License
-
-## About Us
-**Website** https://starclouds.in/
 
 
 ##
